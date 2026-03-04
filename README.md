@@ -102,9 +102,3 @@ El ejecutable se genera en:
 - `BusquedaDeParejas/Idiomas/`: recursos de localizacion (`.resx`).
 - `BusquedaDeParejas/Resources/`: imagenes y gifs del juego.
 
-## Posibles mejoras
-
-- Persistir ranking en archivo (`json`, `xml` o base de datos local).
-- Reducir codigo duplicado en `FormJuego.cs` (handlers de cartas).
-- Anadir tests de logica desacoplada de UI.
-- Anadir instalador o publicacion automatica.
