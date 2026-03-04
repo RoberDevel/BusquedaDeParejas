@@ -9,9 +9,9 @@ El objetivo es encontrar todas las parejas de cartas antes de que se termine el 
 
 `BusquedaDeParejas` es una aplicacion WinForms en C# donde el jugador destapa cartas (imagenes de coches) y debe emparejarlas.
 
-<img width="601" height="295" alt="busquedaDeParejasMenu" src="https://github.com/user-attachments/assets/a862d758-97f1-4a69-b44d-c3d40d8527f6" />
+<img width="607" height="300" alt="busquedaDeParejasMenu" src="https://github.com/user-attachments/assets/3f6ae8b5-3f9e-46bc-85c8-f6a79f19f5c2" />
 
-<img width="938" height="775" alt="busquedaDeParejasJuego" src="https://github.com/user-attachments/assets/38aded22-aebc-41c3-ab5e-803fff9f28a1" />
+<img width="946" height="781" alt="busquedaDeParejasJuego" src="https://github.com/user-attachments/assets/8660109e-d2bb-423c-947e-9786656ab1a1" />
 
 El flujo principal es:
 
