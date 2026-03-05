@@ -1,4 +1,4 @@
-# BusquedaDeParejas
+# Busqueda De Parejas
 
 Juego de memoria de escritorio hecho con Windows Forms.  
 El objetivo es encontrar todas las parejas de cartas antes de que se termine el tiempo.
